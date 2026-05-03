@@ -1,0 +1,66 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "*.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "activity1/*.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "activity2/*.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "activity3/*.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "activity4/*.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "activity4v2/*.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "activity5/*.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "activity6/*.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "activity7/*.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "activity8/*.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "activity9/*.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "activity10/*.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "activity11/*.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "styles.css",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "script.js",
+      "use": "@vercel/static"
+    }
+  ],
+  "outputDirectory": "."
+}
