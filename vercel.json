@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/activity1/(.*)",
+      "dest": "/activity1/$1"
+    },
+    {
+      "src": "/activity2/(.*)",
+      "dest": "/activity2/$1"
+    },
+    {
+      "src": "/activity3/(.*)",
+      "dest": "/activity3/$1"
+    },
+    {
+      "src": "/activity4/(.*)",
+      "dest": "/activity4/$1"
+    },
+    {
+      "src": "/activity4v2/(.*)",
+      "dest": "/activity4v2/$1"
+    },
+    {
+      "src": "/activity5/(.*)",
+      "dest": "/activity5/$1"
+    },
+    {
+      "src": "/activity6/(.*)",
+      "dest": "/activity6/$1"
+    },
+    {
+      "src": "/activity7/(.*)",
+      "dest": "/activity7/$1"
+    },
+    {
+      "src": "/activity8/(.*)",
+      "dest": "/activity8/$1"
+    },
+    {
+      "src": "/activity9/(.*)",
+      "dest": "/activity9/$1"
+    },
+    {
+      "src": "/activity10/(.*)",
+      "dest": "/activity10/$1"
+    },
+    {
+      "src": "/activity11/(.*)",
+      "dest": "/activity11/$1"
+    }
+  ]
+}
